@@ -7,3 +7,6 @@ ernesto:
 carmen:
  - edad 63
  - sexo mujer
+jose luis:
+ - edad 70
+ - sexo hombre
