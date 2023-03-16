@@ -4,3 +4,6 @@ diego:
 ernesto:
  - edad 25
  - sexo hombre
+jose luis:
+ - edad 70
+ - sexo hombre 
