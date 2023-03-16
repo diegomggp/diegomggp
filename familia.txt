@@ -1,0 +1,6 @@
+diego:
+ - edad 31
+ - sexo hombre
+ernesto:
+ - edad 25
+ - sexo hombre
