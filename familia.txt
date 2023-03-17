@@ -9,4 +9,4 @@ carmen:
  - sexo mujer
 jose luis:
  - edad 70
- - sexo hombre
+ - sexo hombre esto es de b1
