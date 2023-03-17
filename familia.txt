@@ -8,5 +8,17 @@ carmen:
  - edad 63
  - sexo mujer
 
+jose luis:
+ - edad 70
+ - sexo hombre esto es de b1
+
+
+ añadidos para que se vean en origin
+
+
  otro
+
+ me o vuelvo a llevar a origin
+ 
+ y una segunda vez. A ver si aparece ahora
 
