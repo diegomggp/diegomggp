@@ -7,18 +7,16 @@ ernesto:
 carmen:
  - edad 63
  - sexo mujer
-<<<<<<< HEAD
+
 jose luis:
  - edad 70
  - sexo hombre esto es de b1
 
-<<<<<<< HEAD
+
  añadidos para que se vean en origin
-=======
+
 
  otro
 
->>>>>>> 2308a80c809a6ea6216baad3161701c05c11c3e8
-=======
- añadidos para que se vean en origin
->>>>>>> f602e4599fac206e3bddb4a8f5e464c03ef446a2
+ me o vuelvo a llevar a origin
+
